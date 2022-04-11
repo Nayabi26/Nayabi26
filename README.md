@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nayabi26
 - 👀 I’m interested in web development/game development
 - 🌱 I’m currently learning html,css,js,react
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate ..
 - 📫 How to reach me ...
 
 <!---
