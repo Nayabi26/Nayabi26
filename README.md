@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Nayabi26
-- 👀 I’m interested in web development/game development
-- 🌱 I’m currently learning html,css,js,react
-- 💞️ I’m looking to collaborate ..
-- 📫 How to reach me ...
+- 👀 I’m interested in HTML5 games 
+- 🌱 I’m currently learning html,css,js
 
 <!---
 Nayabi26/Nayabi26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
